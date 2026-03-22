@@ -10,8 +10,6 @@ app {
 
   port = 3000
 
-  primary_region = "fsn"
-
   compute {
     cpu      = 1
     memory   = 256
